@@ -34,7 +34,7 @@ p{
 .container {
     max-width: 1140px ;
     margin: 0 auto;
-    background: url(/images/pattern-background-desktop.svg);
+    background: url(images/pattern-background-desktop.svg);
     background-position: top;
     background-repeat: no-repeat;
     padding: 100px;
@@ -148,7 +148,7 @@ p{
 @media (max-width: 650px) {
     .container {
         padding: 100px 5px;
-        background: url(/images/pattern-background-mobile.svg);
+        background: url(images/pattern-background-mobile.svg);
         background-repeat: no-repeat;
         background-position: top;
         background-size: contain;
